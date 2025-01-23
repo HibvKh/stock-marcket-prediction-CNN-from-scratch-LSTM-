@@ -1,4 +1,4 @@
-# stock-marcket-prediction-CNN-from-scratch-LSTM-
+# stock-marcket-prediction-CNN-from-scratch-LSTM-NIFTY50
 stock marcket prediction (CNN from scratch + LSTM)
 Dans un monde de plus en plus interconnecté, les marchés financiers jouent un rôle central dans l'économie mondiale. La prévision des fluctuations du marché boursier est une tâche complexe en raison de la multitude de facteurs influents, notamment les tendances économiques, les actualités politiques, et les comportements des investisseurs. Cette complexité a conduit à l'émergence de solutions basées sur des approches avancées en intelligence artificielle et en apprentissage profond (deep learning).
 Parmi ces approches, les réseaux de neurones convolutifs (CNN se distinguent par leur capacité à extraire automatiquement des caractéristiques pertinentes à partir de données complexes, notamment des représentations graphiques ou des matrices de densité issues des données boursières. Ces modèles, initialement conçus pour le traitement des images, s'avèrent également efficaces pour analyser les relations temporelles et structurelles des données financières.
